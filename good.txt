@@ -1,2 +1,3 @@
 提交
 clone
+ssh pull
